@@ -1,0 +1,28 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	text-transform: justify;
+}
+
+.background{
+	background-image: url(https://c.tenor.com/dShj1HWV0GkAAAAC/testeee.gifs);
+	background-repeat:no-repeat;
+	width:100%;height: 100%;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+.container{
+	background-color: black;
+	border: 3px solid green;
+  	padding: 10px;
+  	margin-top: 60px;
+}
+
+h1{
+	font-size: 72px;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;	
+}
